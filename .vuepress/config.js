@@ -2,7 +2,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'Learning Agile',
+            title: 'Scrumpy',
         },
     },
     themeConfig: {
@@ -19,17 +19,36 @@ module.exports = {
                             title: 'Getting Started',
                             collapsable: false,
                             children: [
-                                'introduction',
+                                'getting-started/introduction',
+                            ]
+                        },
+                        {
+                            title: 'Agile',
+                            collapsable: false,
+                            children: [
+                                'agile/backlog',
+                                'agile/stories',
+                                'agile/epics',
+                                'agile/sprints',
                             ]
                         },
                         {
                             title: 'Integrations',
                             collapsable: false,
                             children: [
-                                'github',
-                                'gitlab',
-                                'bitbucket',
-                                'slack',
+                                'integrations/github',
+                                'integrations/gitlab',
+                                'integrations/bitbucket',
+                                'integrations/slack',
+                            ]
+                        },
+                        {
+                            title: 'Import',
+                            collapsable: false,
+                            children: [
+                                'import/excel',
+                                'import/trello',
+                                'import/jira',
                             ]
                         },
                     ],
@@ -38,7 +57,7 @@ module.exports = {
         },
         nav: [
             {
-                text: 'Scrumpy',
+                text: 'Links',
                 items: [
                     { text: 'Sign In', link: 'https://app.scrumpy.io/' },
                     { text: 'Download Apps', link: 'https://scrumpy.io/apps' },
