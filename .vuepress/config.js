@@ -1,5 +1,4 @@
 module.exports = {
-    theme: 'craftdocs',
     locales: {
         '/': {
             lang: 'en-US',
@@ -50,11 +49,4 @@ module.exports = {
             },
         ],
     },
-    markdown: {
-        anchor: { level: [2, 3] },
-        config(md) {
-            let markup = require('vuepress-theme-craftdocs/markup')
-            md.use(markup)
-        }
-    }
 }
