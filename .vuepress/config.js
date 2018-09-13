@@ -26,10 +26,11 @@ module.exports = {
                             title: 'Agile',
                             collapsable: false,
                             children: [
-                                'agile/backlog',
+                                // 'agile/backlog',
                                 'agile/stories',
-                                'agile/epics',
-                                'agile/sprints',
+                                'agile/story-points',
+                                // 'agile/epics',
+                                // 'agile/sprints',
                             ]
                         },
                         {
@@ -37,20 +38,20 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 'integrations/github',
-                                'integrations/gitlab',
-                                'integrations/bitbucket',
-                                'integrations/slack',
+                                // 'integrations/gitlab',
+                                // 'integrations/bitbucket',
+                                // 'integrations/slack',
                             ]
                         },
-                        {
-                            title: 'Import',
-                            collapsable: false,
-                            children: [
-                                'import/excel',
-                                'import/trello',
-                                'import/jira',
-                            ]
-                        },
+                        // {
+                        //     title: 'Import',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'import/excel',
+                        //         'import/trello',
+                        //         'import/jira',
+                        //     ]
+                        // },
                     ],
                 },
             },
