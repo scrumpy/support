@@ -2,4 +2,4 @@
 
 ## 🚧 Work in Progress
 
-We'll add more content every week. Feel free to send us questions, ideas or typos to [support@scrumpy.io](mailto:support@scrumpy.io).
+This is still work in progress. We'll add more content every day. Please help us to eliminate typos and send us all your questions! [support@scrumpy.io](mailto:support@scrumpy.io)
