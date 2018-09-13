@@ -8,4 +8,4 @@ We've build the first version of Scrumpy on the side while running the agency. A
 
 ## The Team Behind Scrumpy
 
-We're a team of two. Philipp Kühn is doing design and frontend development, Hans Pagel is doing backend development all the other things, like writing this text here.
+We're a team of two. [Philipp Kühn](https://twitter.com/_philippkuehn) is doing design and frontend development, [Hans Pagel](https://twitter.com/hanspagel) is doing backend development and all the other things, like writing this text here.
