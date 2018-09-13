@@ -5,6 +5,11 @@ module.exports = {
         docsRepo: 'heyscrumpy/learn',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
+        search: true,
+        algolia: {
+            apiKey: 'd0e739ed5b4ea64c632502fbd1453b1a',
+            indexName: 'scrumpy',
+        },
         sidebar: {
             '/': [
                 {
