@@ -20,6 +20,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 '',
+                                'getting-started/roadmap',
                             ]
                         },
                         {
