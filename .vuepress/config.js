@@ -13,6 +13,7 @@ module.exports = {
                     children: [
                         '',
                         'getting-started/roadmap',
+                        'getting-started/about',
                     ]
                 },
                 {
