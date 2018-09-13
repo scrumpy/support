@@ -1,61 +1,51 @@
 module.exports = {
-    locales: {
-        '/': {
-            lang: 'en-US',
-            title: 'Scrumpy',
-        },
-    },
+    lang: 'en-US',
+    title: 'Scrumpy',
     themeConfig: {
         docsRepo: 'heyscrumpy/learn',
         editLinks: true,
-        locales: {
-            '/': {
-                selectText: 'Language',
-                label: 'English',
-                editLinkText: 'Edit this page on GitHub',
-                sidebar: {
-                    '/': [
-                        {
-                            title: 'Getting Started',
-                            collapsable: false,
-                            children: [
-                                '',
-                                'getting-started/roadmap',
-                            ]
-                        },
-                        {
-                            title: 'Agile',
-                            collapsable: false,
-                            children: [
-                                // 'agile/backlog',
-                                'agile/stories',
-                                'agile/story-points',
-                                // 'agile/epics',
-                                // 'agile/sprints',
-                            ]
-                        },
-                        {
-                            title: 'Integrations',
-                            collapsable: false,
-                            children: [
-                                'integrations/github',
-                                // 'integrations/gitlab',
-                                // 'integrations/bitbucket',
-                                // 'integrations/slack',
-                            ]
-                        },
-                        // {
-                        //     title: 'Import',
-                        //     collapsable: false,
-                        //     children: [
-                        //         'import/excel',
-                        //         'import/trello',
-                        //         'import/jira',
-                        //     ]
-                        // },
-                    ],
+        editLinkText: 'Edit this page on GitHub',
+        sidebar: {
+            '/': [
+                {
+                    title: 'Getting Started',
+                    collapsable: false,
+                    children: [
+                        '',
+                        'getting-started/roadmap',
+                    ]
                 },
-            },
+                {
+                    title: 'Agile',
+                    collapsable: false,
+                    children: [
+                        // 'agile/backlog',
+                        'agile/stories',
+                        'agile/story-points',
+                        // 'agile/epics',
+                        // 'agile/sprints',
+                    ]
+                },
+                {
+                    title: 'Integrations',
+                    collapsable: false,
+                    children: [
+                        'integrations/github',
+                        // 'integrations/gitlab',
+                        // 'integrations/bitbucket',
+                        // 'integrations/slack',
+                    ]
+                },
+                // {
+                //     title: 'Import',
+                //     collapsable: false,
+                //     children: [
+                //         'import/excel',
+                //         'import/trello',
+                //         'import/jira',
+                //     ]
+                // },
+            ],
         },
         nav: [
             {
