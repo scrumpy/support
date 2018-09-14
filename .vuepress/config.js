@@ -18,7 +18,6 @@ module.exports = {
                     children: [
                         '',
                         'getting-started/roadmap',
-                        'getting-started/about',
                     ]
                 },
                 {
@@ -51,6 +50,14 @@ module.exports = {
                 //         'import/jira',
                 //     ]
                 // },
+                {
+                    title: 'About',
+                    collapsable: false,
+                    children: [
+                        'about/team',
+                        // 'about/press',
+                    ]
+                },
             ],
         },
         nav: [

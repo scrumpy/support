@@ -1,4 +1,4 @@
-# About
+# Team
 
 ## How We Started Scrumpy
 
@@ -8,4 +8,6 @@ We've built the first version of Scrumpy on the side while running the agency. A
 
 ## The Team Behind Scrumpy
 
-We're a team of two. [Philipp Kühn](https://twitter.com/_philippkuehn) is doing design and frontend development, [Hans Pagel](https://twitter.com/hanspagel) is doing backend development and all the other things, like writing this text here.
+![An image](../images/scrumpy_team.jpg)
+
+We're a team of two. [Philipp Kühn](https://twitter.com/_philippkuehn) (on the left) is doing design and frontend development, [Hans Pagel](https://twitter.com/hanspagel) (on the right) is doing backend development and all the other things, like writing this text here.
