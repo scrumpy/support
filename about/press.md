@@ -1,8 +1,8 @@
 # Press
 
-Dear journalists, thanks for stopping by. We're a young company and there are a few things you might find interesting: Scrumpy is a bootstrapped company, we are a tiny team and we are totally open about everything, including our revenue.
+Dear journalists, thanks for stopping by. We're a young company and there are a few things you might find interesting: Scrumpy is a bootstrapped company, we are a tiny team and we are totally open about everything, including [our revenue](https://scrumpy.io/open).
 
-Here are a few links to mentions of Scrumpy:
+Here are a few links to existing articles:
 
 1. [Inc. “7 Cool Productivity Tools You Probably Haven't Heard Of”](https://www.inc.com/christina-desmarais/7-cool-productivity-tools-you-probably-havent-heard-of.html)
 2. [Prototypr “30 Brand New Design Tools”](https://blog.prototypr.io/30-brand-new-design-tools-72f90094ba7f)
