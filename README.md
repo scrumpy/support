@@ -1,12 +1,12 @@
 # Introduction
 
-We make expert level project management accessible for small teams worldwide to make their projects a success. 
+Welcome to our Open Knowledge Base! Plan your first project, dive into agile project management or learn more about Scrumpy.
 
-This is what we call our Open Knowledge Base™. Read more about Scrumpy, dive into agile project management or learn more about all the features we built to make your life easier.
+We're constantly adding more content to help you make your projects a success.
 
-Feel free to contact us, share the content with your team or update the content through GitHub. Thank, you're a great person!
+Feel free to share the content with your team, contact us or send updates or additions through GitHub. Thank you, you're a great human!
 
-Cheers ✌️
+Cheers ✌️  
 Hans & Philipp from Scrumpy
 
 ## 🚧 Work in Progress

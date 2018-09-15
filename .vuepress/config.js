@@ -56,7 +56,7 @@ module.exports = {
                     collapsable: false,
                     children: [
                         'about/team',
-                        // 'about/press',
+                        'about/press',
                     ]
                 },
             ],
