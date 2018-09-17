@@ -16,6 +16,7 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Persona integration
 
 ## Interface
+* Collapsible Navigation
 * Filter by Multiple Epics
 * Reorder Subtasks
 * Story filtering
