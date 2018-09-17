@@ -7,19 +7,21 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 ## Workflow
 * Kanban boards `in progress`
 * Customizable Columns/States `in progress`
-* Filter by Multiple Epics
-* Reorder Subtasks
+* Detailed onboarding `in progress`
 * Multiple Assignees
-* Story filtering
-* Ability to order epics
-* “My Stories” view
 * Blockers/Flag tasks
 * Tags/Labels for Stories
-* Ability to select multiple stories (shift select)
 * Sprints over multiple Projects
 * Multiple sprints
 * Persona integration
-* Detailed onboarding
+
+## Interface
+* Filter by Multiple Epics
+* Reorder Subtasks
+* Story filtering
+* Ability to order epics
+* “My Stories” view
+* Ability to select multiple stories (shift select)
 
 ## Features
 * Allow user tagging in Notes (Mentions) `in progress`
@@ -31,14 +33,14 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 
 ## Platforms
 * iOS App
-* Sprint OSX plugin
 * Linux App
+* Sprint OSX plugin
 
 ## Integrations
-* Harvest time tracking
-* Bitbucket `Bitbucket is missing support for secrets`
 * Toggl
 * Everhour
+* Harvest time tracking
+* Bitbucket `Bitbucket is missing support for secrets`
 
 ## Imports
 * CSV import `in progress`
