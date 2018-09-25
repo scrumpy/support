@@ -41,6 +41,8 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Toggl
 * Everhour
 * Harvest time tracking
+* Dropbox files
+* Google Drive files/docs/spreadsheets
 * SupportBee (create story from ticket)
 * Bitbucket `Bitbucket is missing support for secrets`
 
