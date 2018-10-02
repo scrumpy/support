@@ -26,6 +26,7 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 
 ## Features
 * Allow user tagging in Notes (Mentions) `in progress`
++ Google Single-Sign-On
 * View reports data on a per-user basis
 * Agile Product Roadmap
 * Gantt Chart
