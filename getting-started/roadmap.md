@@ -5,8 +5,8 @@ Did you know that we update Scrumpy 13 times a day on average? We're continuousl
 If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'll add it to the list.
 
 ## Workflow
-* Kanban boards `in progress`
 * Customizable Columns/States `in progress`
+* Kanban boards `in progress`
 * Detailed onboarding `in progress`
 * Multiple Assignees
 * Blockers/Flag tasks
@@ -38,12 +38,12 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Sprint OSX plugin
 
 ## Integrations
+* SupportBee (create story from ticket)
 * Toggl
 * Everhour
 * Harvest time tracking
 * Dropbox files
 * Google Drive files/docs/spreadsheets
-* SupportBee (create story from ticket)
 * Bitbucket `Bitbucket is missing support for secrets`
 
 ## Imports
@@ -56,3 +56,5 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 
 ## Localization
 * Support for other charsets (e. g. Vietnamese)
+* Spanish Translation
+* German Translation
