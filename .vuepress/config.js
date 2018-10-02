@@ -58,6 +58,7 @@ module.exports = {
                         'about/team',
                         'about/open-source',
                         'about/press',
+                        'about/jobs',
                     ]
                 },
             ],
