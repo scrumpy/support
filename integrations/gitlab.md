@@ -2,7 +2,7 @@
 
 GitLab is the first single application for all stages of the DevOps lifecycle for Product, Development, QA, Security, and Operations teams to work concurrently on the same project. With Scrumpy you're able to connect your GitLab repositories with your Scrumpy projects.
 
-## Connect Your Project with GitLab (gitlab.com or self-hosted)
+## Connect Your Project with GitLab
 
 Scrumpy projects are connected through a Webhook.
 
