@@ -37,7 +37,7 @@ module.exports = {
                     collapsable: false,
                     children: [
                         'integrations/github',
-                        // 'integrations/gitlab',
+                        'integrations/gitlab',
                         // 'integrations/bitbucket',
                         // 'integrations/slack',
                     ]

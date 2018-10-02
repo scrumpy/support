@@ -13,7 +13,7 @@ Scrumpy projects are connected through a Webhook.
 
 * Payload URL: `Scrumpy Webhook URL`
 * Content type: `application/json`
-* Secret: `Scrumpy secret`
+* Secret: `Scrumpy Secret`
 * 👉 Enable SSL verification
 * 👉 Just the push event
 * ✅ Active
