@@ -5,9 +5,8 @@ Did you know that we update Scrumpy 13 times a day on average? We're continuousl
 If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'll add it to the list.
 
 ## Workflow
-* Customizable Columns/States `in progress`
 * Kanban boards `in progress`
-* Detailed onboarding `in progress`
+* Detailed onboarding
 * Multiple Assignees
 * Blockers/Flag tasks
 * Tags/Labels for Stories
@@ -16,7 +15,7 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Persona integration
 
 ## Interface
-* Move stories to another project
+* Move stories to another project `in progress`
 * Collapsible Navigation
 * Filter by Multiple Epics
 * Reorder Subtasks
@@ -26,8 +25,8 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Ability to select multiple stories (shift select)
 
 ## Features
-* Allow user tagging in Notes (Mentions) `in progress`
-* Google Single-Sign-On
+* Overview of all your stories `in progress`
+* Allow user tagging in Notes (Mentions)
 * View reports data on a per-user basis
 * Agile Product Roadmap
 * Gantt Chart
@@ -40,16 +39,18 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Sprint OSX plugin
 
 ## Integrations
-* SupportBee (create story from ticket)
+* Sync attachments with Google Drive `in progress`
+* Store commits & pull requests from GitHub/GitLab `in progress`
+* Help Scout (create story from ticket) `in progress`
 * Toggl
 * Everhour
 * Harvest time tracking
 * Dropbox files
 * Google Drive files/docs/spreadsheets
-* Bitbucket `Bitbucket is missing support for secrets`
+* Bitbucket `Bitbucket is missing support for secret tokens`
 
 ## Imports
-* CSV import `in progress`
+* CSV import
 * Trello import
 * JIRA import
 
