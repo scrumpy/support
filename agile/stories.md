@@ -28,7 +28,7 @@ However, while you start working on your project and you discuss all those featu
 
 > As a `user`, I want to `sign in`, so that `I can load my data`.
 
-> As a `user`, I want to `update myemail address`, so that `I keep access`.
+> As a `user`, I want to `update my email address`, so that `I keep access`.
 
 > As a `user`, I want to `reset my password`, so that `I can sign in again`.
 
