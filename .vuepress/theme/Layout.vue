@@ -145,6 +145,15 @@ export default {
     })
 
     this.$on('sw-updated', this.onSWUpdated)
+
+    window.CRISP_WEBSITE_ID="463813ad-c274-4da1-8045-f5ceac88832b"
+    window.$crisp = [
+      ['config', 'position:reverse', true],
+    ]
+    const s = document.createElement('script')
+    s.src = 'https://client.crisp.chat/l.js'
+    s.async = 1
+    document.getElementsByTagName('head')[0].appendChild(s)
   },
 
   methods: {
