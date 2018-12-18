@@ -25,7 +25,6 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Ability to select multiple stories (shift select)
 
 ## Features
-* Overview of all your stories `in progress`
 * Allow user tagging in Notes (Mentions)
 * View reports data on a per-user basis
 * Agile Product Roadmap
@@ -39,8 +38,8 @@ If you're missing a feature, shoot us an [email](mailto:support@scrumpy.io). We'
 * Sprint OSX plugin
 
 ## Integrations
-* Sync attachments with Google Drive `in progress`
 * Store commits & pull requests from GitHub/GitLab `in progress`
+* Sync attachments with Google Drive `in progress`
 * Help Scout (create story from ticket) `in progress`
 * Toggl
 * Everhour
