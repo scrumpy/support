@@ -148,7 +148,7 @@ export default {
 
     window.CRISP_WEBSITE_ID="463813ad-c274-4da1-8045-f5ceac88832b"
     window.$crisp = [
-      ['config', 'position:reverse', true],
+      // ['config', 'position:reverse', true],
     ]
     const s = document.createElement('script')
     s.src = 'https://client.crisp.chat/l.js'
