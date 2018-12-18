@@ -68,6 +68,7 @@ module.exports = {
                     { text: 'Changelog', link: 'https://scrumpy.io/changelog' },
                     { text: 'Site Notice', link: 'https://scrumpy.io/imprint' },
                     { text: 'Blog', link: 'https://medium.com/scrumpy' },
+                    { text: 'Twitter', link: 'https://twitter.com/heyscrumpy' },
                 ]
             },
         ],
