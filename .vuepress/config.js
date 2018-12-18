@@ -2,7 +2,7 @@ module.exports = {
     lang: 'en-US',
     title: 'Scrumpy',
     themeConfig: {
-        docsRepo: 'heyscrumpy/learn',
+        docsRepo: 'scrumpy/support',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
         search: true,
