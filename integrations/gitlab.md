@@ -18,7 +18,7 @@ Scrumpy projects are connected through a Webhook.
 
 ## Mark Stories as Complete
 
-If your repository is connected successful you are can mark stories as done with your commit messages. Here are a few examples:
+If your repository is connected successfully, you can mark stories as done with your commit messages. Here are a few examples:
 
 > adding more cats, fix #1
 
