@@ -26,7 +26,7 @@ If your repository is connected successfully, you can mark stories as done with 
 
 > references #1, see #2
 
-> fix this nasty bug (implement #42)
+> work on this nasty bug (ref #42)
 
 You can use other keywords, too. Here is a complete list of all recognized keywords to link your commits to stories:
 
@@ -40,7 +40,7 @@ If your repository is connected successfully, you can mark stories as done with 
 
 > fix #1, resolve #2
 
-> fixing this nasty bug (done #42)
+> fix this nasty bug (implement #42)
 
 You can use other keywords, too. Here is a complete list of all recognized keywords to mark a story as done:
 * close, closes, closed, closing

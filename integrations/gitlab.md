@@ -24,7 +24,7 @@ If your repository is connected successfully, you can mark stories as done with 
 
 > references #1, see #2
 
-> fixing this nasty bug (ref #42)
+> work on this nasty bug (ref #42)
 
 You can use other keywords, too. Here is a complete list of all recognized keywords to link your commits to stories:
 
