@@ -18,9 +18,23 @@ Scrumpy projects are connected through a Webhook.
 * 👉 Just the push event
 * ✅ Active
 
+## Reference a Story in Your Commit Message
+
+If your repository is connected successfully, you can mark stories as done with your commit messages. Here are a few examples:
+
+> working on the feature, see #1
+
+> references #1, see #2
+
+> fix this nasty bug (implement #42)
+
+You can use other keywords, too. Here is a complete list of all recognized keywords to link your commits to stories:
+
+* addresses, re, references, ref, refs, see
+
 ## Mark Stories as Complete
 
-If your repository is connected successful you are can mark stories as done with your commit messages. Here are a few examples:
+If your repository is connected successfully, you can mark stories as done with your commit messages. Here are a few examples:
 
 > adding more cats, fix #1
 
@@ -28,4 +42,8 @@ If your repository is connected successful you are can mark stories as done with
 
 > fixing this nasty bug (done #42)
 
-You can use other keywords, too. Here is a complete list of all recognized keywords: done, fix, fixed, resolve, resolved, complete, completed, finish, finished
+You can use other keywords, too. Here is a complete list of all recognized keywords to mark a story as done:
+* close, closes, closed, closing
+* fix, fixes, fixed, fixing
+* resolve, resolves, resolved, resolving
+* implement, implements, implemented, implementing
