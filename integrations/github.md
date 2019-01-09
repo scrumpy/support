@@ -15,7 +15,7 @@ Scrumpy projects are connected through a Webhook.
 * Content type: `application/json`
 * Secret: `Scrumpy Secret`
 * 👉 Enable SSL verification
-* 👉 Just the push event
+* 👉 Let me select individual events: **Pushes** and **Pull requests**
 * ✅ Active
 
 ## Reference a Story in Your Commit Message

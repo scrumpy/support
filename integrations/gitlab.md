@@ -13,7 +13,7 @@ Scrumpy projects are connected through a Webhook.
 
 * URL: `Scrumpy Webhook URL`
 * Secret Token: `Scrumpy Secret`
-* ✅ Push Events
+* ✅ **Push Events** and **Merge request events**
 * ✅ Enable SSL verification
 
 ## Reference a Story in Your Commit Message
