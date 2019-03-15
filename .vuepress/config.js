@@ -18,9 +18,10 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Agile',
+                    title: 'Working Agile',
                     collapsable: false,
                     children: [
+                        'agile/overview',
                         // 'agile/backlog',
                         'agile/stories',
                         'agile/story-points',
