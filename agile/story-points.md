@@ -2,11 +2,6 @@
 
 Estimations don’t have to be a painful process, take a few minutes to learn how we approach them.
 
-## TL;DR
-1. ⏰ Don’t estimate time
-2. 🤓 Estimate effort and complexity
-3. 🔍 Be generous with Story Points
-
 A typical scenario runs like this: Developers are asked for estimates, they have not enough information and are too optimistic, so they underestimate. Someone monitors those estimates, and everyone is upset when something takes longer. Surprisingly everybody hates estimations.
 
 ## Why do we estimate?

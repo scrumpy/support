@@ -2,12 +2,6 @@
 
 Stories are like your tasks, but even better. Something we’ve often seen in other tools is tasks like “Account”. Does everyone on your team know what to do with it? Probably not.
 
-## TL;DR
-
-1. 👩‍💻 Write Stories from the user perspective
-2. 💬 Stories shift the focus from writing to discussing
-3. ✌️ Everyone can write a Story
-
 ## What is a Story?
 User Stories are short, simple descriptions of a feature told from the user perspective. They typically follow a simple structure:
 
