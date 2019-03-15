@@ -12,9 +12,10 @@ module.exports = {
                     title: 'Getting Started',
                     collapsable: false,
                     children: [
-                        '',
-                        'getting-started/roadmap',
-                        // 'getting-started/tutorial',
+                        'getting-started/introduction',
+                        'getting-started/sign-up',
+                        'getting-started/onboarding',
+                        'getting-started/pricing',
                     ]
                 },
                 {
@@ -22,11 +23,12 @@ module.exports = {
                     collapsable: false,
                     children: [
                         'agile/overview',
-                        // 'agile/backlog',
+                        'agile/kanban',
+                        'agile/scrum',
+                        'agile/backlog',
+                        'agile/sprints',
                         'agile/stories',
                         'agile/story-points',
-                        // 'agile/epics',
-                        // 'agile/sprints',
                     ]
                 },
                 {
@@ -36,7 +38,7 @@ module.exports = {
                         'integrations/github',
                         'integrations/gitlab',
                         // 'integrations/bitbucket',
-                        // 'integrations/slack',
+                        'integrations/slack',
                     ]
                 },
                 // {
@@ -52,10 +54,11 @@ module.exports = {
                     title: 'About',
                     collapsable: false,
                     children: [
-                        'about/team',
                         'about/open-source',
-                        'about/press',
+                        'about/values',
+                        'about/team',
                         'about/jobs',
+                        'about/press',
                     ]
                 },
             ],

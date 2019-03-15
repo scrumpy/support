@@ -7,9 +7,10 @@ GitLab is the first single application for all stages of the DevOps lifecycle fo
 Scrumpy projects are connected through a Webhook.
 
 1. Open Scrumpy and go to the project you want to connect.
-3. Open the project settings, you'll need the webhook URL and the secret token.
-5. Open your GitLab repository and go to Settings > Integrations.
-7. Add a new webhook with the following settings:
+2. Open the project settings, click on integrations.
+3. You'll need the webhook URL and the secret token.
+4. Open your GitLab repository and go to Settings > Integrations.
+5. Add a new webhook with the following settings:
 
 * URL: `Scrumpy Webhook URL`
 * Secret Token: `Scrumpy Secret`
