@@ -12,7 +12,6 @@ module.exports = {
                     title: 'Getting Started',
                     collapsable: false,
                     children: [
-                        'getting-started/introduction',
                         'getting-started/sign-up',
                         'getting-started/onboarding',
                         'getting-started/pricing',
@@ -37,19 +36,9 @@ module.exports = {
                     children: [
                         'integrations/github',
                         'integrations/gitlab',
-                        // 'integrations/bitbucket',
                         'integrations/slack',
                     ]
                 },
-                // {
-                //     title: 'Import',
-                //     collapsable: false,
-                //     children: [
-                //         'import/excel',
-                //         'import/trello',
-                //         'import/jira',
-                //     ]
-                // },
                 {
                     title: 'About',
                     collapsable: false,

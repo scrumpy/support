@@ -1,8 +1,10 @@
 # Introduction
 
-Welcome to our Open Knowledge Base! Plan your first project, dive into agile project management or learn more about Scrumpy.
+Hi! Thanks for checking in. This is the place where we constantly add content to answer frequently asked questions.
 
-Feel free to share the content with your team, contact us or send updates or additions through GitHub. Thank you, you're a great person!
+I guess we didn't answer everything yet, so don't hesitate to use the chat bubble on the bottom to ask us everything you like.
 
-Cheers ✌️
-Hans & Philipp from Scrumpy
+If you want to add something or correct a typo, this page is open source. Click on “Edit this page on GitHub” to suggest a change. Or send us a short message, we'll get back to you as soon as possible.
+
+Thanks & have a nice day!<br />
+Philipp & Hans from Scrumpy ✌️
