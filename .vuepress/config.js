@@ -37,6 +37,7 @@ module.exports = {
                         'integrations/github',
                         'integrations/gitlab',
                         'integrations/slack',
+                        'integrations/helpscout',
                     ]
                 },
                 {
