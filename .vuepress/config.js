@@ -44,7 +44,6 @@ module.exports = {
                     title: 'About',
                     collapsable: false,
                     children: [
-                        'about/open-source',
                         'about/values',
                         'about/team',
                         'about/jobs',
